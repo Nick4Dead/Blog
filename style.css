@@ -45,7 +45,7 @@ h1 {
 .social_logos a {
   padding-right: 26px;
 }
-.social_logos img:last-child {
+.social_logos a:last-child {
   padding: 0;
 }
 .navigation li {
