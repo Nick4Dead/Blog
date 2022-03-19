@@ -42,7 +42,7 @@ h1 {
   flex-direction: row;
 }
 
-.social_logos img {
+.social_logos a {
   padding-right: 26px;
 }
 .social_logos img:last-child {
